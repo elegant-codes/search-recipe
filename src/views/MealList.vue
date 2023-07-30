@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <router-view />
+  <div>
+    <h1>Meal List</h1>
+  </div>
 </template>
-
-<style scoped></style>
